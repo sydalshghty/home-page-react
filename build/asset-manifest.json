@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home-page-react/static/css/main.88b3f4dd.css",
+    "main.js": "/home-page-react/static/js/main.d90fa324.js",
+    "static/media/home (10).png": "/home-page-react/static/media/home (10).9f95562da752320a72ff.png",
+    "static/media/home (11).png": "/home-page-react/static/media/home (11).cb5df6a54c8370cc311b.png",
+    "static/media/home (12) (1).png": "/home-page-react/static/media/home (12) (1).1c6cfb2b304a113c3679.png",
+    "static/media/Vector Smart Object-ai (1)-svg (1).svg": "/home-page-react/static/media/Vector Smart Object-ai (1)-svg (1).3116a0592b747eb1dc126fa81ed9acd0.svg",
+    "index.html": "/home-page-react/index.html",
+    "main.88b3f4dd.css.map": "/home-page-react/static/css/main.88b3f4dd.css.map",
+    "main.d90fa324.js.map": "/home-page-react/static/js/main.d90fa324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b3f4dd.css",
+    "static/js/main.d90fa324.js"
+  ]
+}
